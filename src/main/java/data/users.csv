@@ -1,0 +1,5 @@
+UID,Username,Password,FirstName,LastName,Type,Address,Dob
+1,shawn,pw123,Shawn,Tan,customer,Singapore 612345 Lakeside,1999-10-05
+2,test123,pwasd,Test,Last,customer,Singapore 678902 SIT,1998-08-03
+3,nicholas,password,Nicholas,Poh,customer,Singapore 654321 Test,1998-11-02
+4,admin,admin,Admin,Account,admin
